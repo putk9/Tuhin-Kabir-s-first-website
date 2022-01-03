@@ -1,11 +1,39 @@
-h{
+.homeless{
+    color: grey;
+    background-image:url(./homeless.jpg);
+    border: 200px dotted green;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
     color: red;
+}
+h3{
+    color: mediumvioletred;
 }
 p{
     color: green;
 }
 .footer{
-    color: yellow;
-    background-color: grey;
+    text-align: center;
+    color: grey;
+    background-color: purple;
     height: 20px;
+}
+:root{
+    background-color: rgb(116, 185, 185);
+}
+a:link{
+    color: purple;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    column-rule: yellow;
+}
+a:active{
+    color: green;
 }
