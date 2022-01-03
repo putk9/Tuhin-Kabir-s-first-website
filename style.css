@@ -4,3 +4,8 @@ h{
 p{
     color: green;
 }
+.footer{
+    color: yellow;
+    background-color: grey;
+    height: 20px;
+}
