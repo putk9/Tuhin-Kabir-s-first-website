@@ -1,8 +1,9 @@
 .homeless{
-    color: grey;
-    background-image:url(./homeless.jpg);
-    border: 200px dotted green;
+    color: red;
+    background-image:url(homeless.jpg);
+    border: 20px dotted green;
     border-radius: 20px;
+    margin: 60px 60px;
 }
 h1{
     text-align: center;
